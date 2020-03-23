@@ -1,3 +1,0 @@
-git add .  选择上传文件
-git commit -m "blinker"   备注文件
-git push -u origin master  /  git push origin master  上传
